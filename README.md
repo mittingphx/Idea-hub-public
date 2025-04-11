@@ -4,6 +4,11 @@ Output repository for personal ideas published for public consumption
 ## Mockup
 This repo is a mockup of what your idea hub would look like once published dron your IdeaHub. 
 
+## Published Documents
+The list of available idea documents are available at:
+- [docs/](./docs/README.md)
+       
+
 ## Licensing
 
 All source code and scripts in this repository are licensed under the [MIT License](./LICENSE).
